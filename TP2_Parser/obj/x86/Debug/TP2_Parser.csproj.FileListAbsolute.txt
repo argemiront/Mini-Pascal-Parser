@@ -1,0 +1,42 @@
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\MainWindow.baml
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\App.g.cs
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser_MarkupCompile.cache
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.g.resources
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.Properties.Resources.resources
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.exe
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.pdb
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.exe
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.pdb
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.Resource1.resources
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.exe
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.pdb
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.exe
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.pdb
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\MainWindow.baml
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\App.g.cs
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser_MarkupCompile.cache
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.g.resources
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.Properties.Resources.resources
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.Resource1.resources
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\III Unidade\TP2_Parser\TP2_Parser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.exe
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.pdb
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.exe
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.pdb
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser_MarkupCompile.cache
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.g.resources
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.Properties.Resources.resources
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\TP2_Parser.Resource1.resources
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Valter Costa\Meus documentos\Ufersa\UFERSA 2010.1\Compiladores\Trabalho 3 - 40% Prova 3\PROGRAMA & TESTES\TP2_Parser\TP2_Parser\obj\x86\Debug\GenerateResource.write.1.tlog

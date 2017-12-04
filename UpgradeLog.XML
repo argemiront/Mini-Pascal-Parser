@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TP2_Parser">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser.suo">
+</Property><Property Name="Date" Value="quinta-feira, 17 de junho de 2010">
+</Property><Property Name="Time" Value="11:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TP2_Parser.sln" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TP2_Parser.suo" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser.suo">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\TP2_Parser.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\TP2_Parser.csproj">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\App.xaml.cs" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\Window1.xaml.cs" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\minipascalLexer.cs" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\minipascalLexer.cs">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\minipascalParser.cs" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\minipascalParser.cs">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\minipascal.g" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\minipascal.g">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\minipascal.tokens" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\minipascal.tokens">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\App.xaml" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\App.xaml">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\Window1.xaml" Description="File successfully backed up as C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\Backup\TP2_Parser\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\TP2_Parser.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TP2_Parser" Source="TP2_Parser\TP2_Parser.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TP2_Parser.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TP2_Parser.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TP2_Parser" Source="TP2_Parser\TP2_Parser.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

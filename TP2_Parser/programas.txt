@@ -1,0 +1,98 @@
+﻿program teste;
+var x, y : integer;
+begin
+x[2] := 1 + 2 + y;
+y := 3 * x;
+end.
+
+PROGRAM pares;
+VAR
+x, y: INTEGER;  //uma linha no meio
+BEGIN
+WHILE x <= y DO x := x + 2;
+END.
+
+PROGRAM teste;
+BEGIN
+END.
+
+PROGRAM teste;
+VAR x,y : INTEGER;
+BEGIN
+IF X > Y THEN X:= X - 1 ELSE Y:= Y-1;
+END.
+
+PROGRAM teste;
+VAR X, Y, Z: INTEGER;
+    H : ARRAY[1..5] OF INTEGER;
+BEGIN
+END.
+
+PROGRAM teste;
+VAR X, Y, Z: INTEGER;
+    H : ARRAY[1..5] OF ARRAY[1..7] OF CHAR;
+BEGIN
+BEGIN
+BEGIN
+END;
+END;
+END.
+
+PROGRAM teste;
+BEGIN
+a:=1;
+b:=1265656;
+END.
+
+
+PROGRAM teste;
+BEGIN
+a:=1;
+b:=1265656;
+END.
+
+
+PROGRAM pares;
+VAR
+x, y: INTEGER;
+BEGIN
+WRITE('Digite os dois valores');
+READ(x, y);
+IF(x MOD 2) <> 0 THEN
+x := x + 1;
+WHILE x <= y DO
+BEGIN
+WRITE(x, ' - ');
+x := x + 2;
+END;
+WRITE('F');
+END.
+
+
+//Comentário de uma linha só
+PROGRAM pares;
+VAR
+x, y: INTEGER;  //uma linha no meio
+BEGIN /*Varias linhas no meio*/
+ /*varias linhas novamente*/ 
+READ(x, y);
+IF(x MOD 2) <> 0 /*varias linhas bagunçando
+todo o corpo do
+programa */
+THEN
+x := x + 1;
+WHILE x <= y DO
+x := x + 2;
+END.
+
+
+PROGRAM pares;
+VAR
+x, y: INTEGER;
+BEGIN
+READ(x, y);
+IF(x MOD 2) <> 0 THEN
+x := x + 1;
+WHILE x <= y DO
+x := x + 2;
+END.

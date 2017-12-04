@@ -1,0 +1,37 @@
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.exe
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.pdb
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\antlr.runtime.dll
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\Antlr3.Utility.dll
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\StringTemplate.dll
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\Antlr3.Utility.xml
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\Window1.baml
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\Window1.g.cs
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\App.g.cs
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser_MarkupCompile.cache
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser.g.resources
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser.Properties.Resources.resources
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser.csproj.GenerateResource.Cache
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser.exe
+C:\Users\Argemiro\Documents\UFERSA\VII Período\Compiladores\II Unidade\Trabalho\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser.pdb
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser.exe
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser.pdb
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.exe
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\bin\Debug\TP2_Parser.pdb
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\bin\Debug\antlr.runtime.dll
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\bin\Debug\Antlr3.Runtime.dll
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\bin\Debug\Antlr3.Utility.dll
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\bin\Debug\StringTemplate.dll
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\bin\Debug\Antlr3.Runtime.xml
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\bin\Debug\Antlr3.Utility.xml
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\Window1.baml
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\App.g.cs
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser_MarkupCompile.cache
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser.g.resources
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\TP2_Parser.Properties.Resources.resources
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Valter Costa\Desktop\AS Compiladores\Trabalho 2ª unidade\TP2_Parser\TP2_Parser\obj\Debug\GenerateResource-ResGen.write.1.tlog
